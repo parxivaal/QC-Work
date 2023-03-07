@@ -1,0 +1,5 @@
+This notebook contains the method to prepare any arbitrary Quantum state as suggested by Prof. Mikko Mottonen implemented using Qiskit.
+
+Papers used:
+1) Decomposition of General Quantum Gates : https://arxiv.org/abs/quant-ph/0504100
+2) Transformation of Quantum States using uniformly controlled rotations : https://arxiv.org/abs/quant-ph/0407010
