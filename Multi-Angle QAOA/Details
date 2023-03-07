@@ -1,0 +1,5 @@
+In this Notebooks, I've implemented the Multi-Angle QAOA Algorithm for solving Ising Formulations of Many NP-Hard problems.
+
+Papers used:
+1) Multi-Angle QAOA : https://arxiv.org/abs/2109.11455
+2) Ising Formulations of many NP problems : https://arxiv.org/abs/1302.5843
