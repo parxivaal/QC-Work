@@ -1,1 +1,5 @@
 In this folder, I've implemented various methods to calculate the ground state energies of various molecules and Nuclear Quantum Systems.
+
+Papers used:
+1) Quantum simulation of nuclear Hamiltonian with a generalized transformation for Gray code encoding
+Link :- https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.034301
